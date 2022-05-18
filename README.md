@@ -1,6 +1,7 @@
 # Python_Machine_Learning_Study
 ## 책 : 파이썬 머신러닝 완벽 가이드 스터디
 - 예제 코드 : https://github.com/wikibook/pymldg-rev
+- 내용 : 7주간 파이썬 머신러닝 완벽 가이드 책 스터디를 진행하며 정리한 내용입니다!
 
 **1주차**
 
